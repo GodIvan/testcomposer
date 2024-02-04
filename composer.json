@@ -1,0 +1,18 @@
+{
+    "name": "dodivan/testcomposer",
+    "description": "a test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dodivan\\Testcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuqida",
+            "email": "13760597058@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
